@@ -1,0 +1,17 @@
+Read(Nama, Nilai)
+if(nilai >= 80) And (nilai <=100)
+Display A;
+if(nilai > 65) And (nilai <= 79)
+Display B;
+if(nilai > 50) And (nilai <=64)
+Display C;
+if(nilai > 35) And (nilai <=49)
+Display D;
+if(nilai > 0) And (nilai <= 34)
+Display E;
+if(nilai < 0) Or (nilai > 100)
+Display nilai Invalid
+
+Write(desc Nilai dari terbesar ke kecil)
+
+Endif;
